@@ -1,0 +1,8 @@
+# Que es Java?
+
+Java es un lenguaje de programación de propósito general, uno de los más populares y con mayores aplicaciones del panorama actual. Existen diversos índices de lenguajes de programación y dependiendo el que tomemos como referencia puede considerarse el lenguaje más popular, o uno de los 3 más populares que existen en el mundo.
+
+Fue creado inicialmente por la compañía Sun Microsystems que consiguió posicionar su lenguaje como uno de los más punteros y extendidos, debido sobre todo a su versatilidad y soporte prácticamente universal. Actualmente se encuentra en propiedad de Oracle, después que ésta adquiriera a Sun.
+El hecho de ser multiplataforma es una ventaja significativa para los desarrolladores de software, pues anteriormente era necesario hacer un programa para cada sistema operativo, por ejemplo Windows, Linux, MacOS, etc. Esto lo consigue porque se ha creado una Máquina virtual de Java para cada plataforma, que hace de puente entre el sistema operativo y el programa de Java y posibilita que este último se entienda perfectamente. Hoy hay muchos lenguajes multiplataforma, pero Java fue de los primeros en ofrecer esta posibilidad.
+
+Con Java podemos hacer todo tipo de proyectos, desde aplicaciones web a servicios web basados en SOAP o REST, aplicaciones de escritorio de consola o interfaz gráfica. Además Java es el lenguaje de programación que se usa para el desarrollo nativo para Android, lo que ha llevado a esta tecnología a un nivel de popularidad todavía mayor y con alta demanda porfesional.
