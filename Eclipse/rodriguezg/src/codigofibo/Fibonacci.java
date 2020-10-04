@@ -22,7 +22,7 @@ public class Fibonacci
             valor2 = valor3;
 
             x++;
-        }
+    }
 
     }
 }
